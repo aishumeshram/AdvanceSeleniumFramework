@@ -1,7 +1,7 @@
 # Selenium Automation Framework
 
 - Java, Selenium, TestNG
-- Maven, AssertJ, POM
+- Maven, AssertJ, POM 
 - Thread Local Support → Thread Safety
 - Allure Report
 - Excel Sheet for Test Data → Data Provider
